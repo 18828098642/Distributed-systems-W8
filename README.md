@@ -1,4 +1,4 @@
-# Distributed-systems-W8
+# Distributed-systems-Assignment 2
 This repository includes the python files needed for the assignment 2 for course Distributed Systems：Notebook application based on XML.
 The files are one program for server's side, the main functions supporting the system;
 One program for client's side, the interfaces for inputs, and senders that connects servers;
